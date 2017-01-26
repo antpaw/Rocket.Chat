@@ -4,7 +4,7 @@ Blaze.registerHelper('pathFor', function(path, kw) {
 	return FlowRouter.path(path, kw.hash);
 });
 
-BlazeLayout.setRoot('body');
+BlazeLayout.setRoot('#my_chat');
 
 FlowRouter.subscriptions = function() {
 	Tracker.autorun(() => {

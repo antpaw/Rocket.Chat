@@ -152,4 +152,3 @@ Meteor.defer(() => {
 	}
 	Inject.rawHead('base', `<base href="${baseUrl}">`);
 });
-
