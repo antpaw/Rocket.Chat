@@ -1,11 +1,7 @@
 accounts-base@1.2.14
-accounts-facebook@1.1.0
-accounts-github@1.2.0
-accounts-google@1.1.0
 accounts-meteor-developer@1.2.0
 accounts-oauth@1.1.15
 accounts-password@1.3.4
-accounts-twitter@1.2.0
 aldeed:simple-schema@1.5.3
 allow-deny@1.0.5
 autoupdate@1.2.11
@@ -43,7 +39,6 @@ facebook-oauth@1.3.0
 fastclick@1.0.13
 francocatena:status@1.5.3
 geojson-utils@1.0.10
-github-oauth@1.2.0
 google-oauth@1.2.0
 hot-code-push@1.0.4
 html-tools@1.0.11
@@ -141,16 +136,11 @@ rocketchat:error-handler@1.0.0
 rocketchat:favico@0.0.1
 rocketchat:file@0.0.1
 rocketchat:file-upload@0.0.1
-rocketchat:github-enterprise@0.0.1
-rocketchat:gitlab@0.0.1
 rocketchat:highlight-words@0.0.1
 rocketchat:i18n@0.0.1
 rocketchat:iframe-login@1.0.0
 rocketchat:importer@0.0.1
 rocketchat:importer-csv@1.0.0
-rocketchat:importer-hipchat@0.0.1
-rocketchat:importer-hipchat-enterprise@1.0.0
-rocketchat:importer-slack@0.0.1
 rocketchat:integrations@0.0.1
 rocketchat:internal-hubot@0.0.1
 rocketchat:irc@0.0.2
@@ -158,7 +148,6 @@ rocketchat:katex@0.0.1
 rocketchat:ldap@0.0.1
 rocketchat:ldapjs@1.0.0
 rocketchat:lib@0.0.1
-rocketchat:livechat@0.0.1
 rocketchat:logger@0.0.1
 rocketchat:mailer@0.0.1
 rocketchat:mapview@0.0.1
@@ -175,11 +164,9 @@ rocketchat:oauth2-server@2.0.0
 rocketchat:oauth2-server-config@1.0.0
 rocketchat:oembed@0.0.1
 rocketchat:otr@0.0.1
-rocketchat:piwik@0.0.1
 rocketchat:push-notifications@0.0.1
 rocketchat:reactions@0.0.1
 rocketchat:sandstorm@0.0.1
-rocketchat:slackbridge@0.0.1
 rocketchat:slashcommands-archive@0.0.1
 rocketchat:slashcommands-asciiarts@0.0.1
 rocketchat:slashcommands-create@0.0.1
@@ -195,7 +182,6 @@ rocketchat:slashcommands-open@0.0.1
 rocketchat:slashcommands-topic@0.0.1
 rocketchat:slashcommands-unarchive@0.0.1
 rocketchat:smarsh-connector@0.0.1
-rocketchat:sms@0.0.1
 rocketchat:spotify@0.0.1
 rocketchat:statistics@0.0.1
 rocketchat:streamer@0.5.0
@@ -214,7 +200,6 @@ rocketchat:ui-vrecord@0.0.1
 rocketchat:version@1.0.0
 rocketchat:videobridge@0.2.0
 rocketchat:webrtc@0.0.1
-rocketchat:wordpress@0.0.1
 routepolicy@1.0.12
 service-configuration@1.0.11
 session@1.1.7

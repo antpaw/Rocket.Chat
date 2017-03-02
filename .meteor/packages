@@ -4,12 +4,8 @@
 # but you can also edit it by hand.
 
 rocketchat:cors
-accounts-facebook
-accounts-github
-accounts-google
 accounts-meteor-developer
 accounts-password
-accounts-twitter
 blaze-html-templates
 check
 coffeescript
@@ -59,22 +55,16 @@ rocketchat:error-handler
 rocketchat:favico
 rocketchat:file
 rocketchat:file-upload
-rocketchat:github-enterprise
-rocketchat:gitlab
 rocketchat:highlight-words
 rocketchat:iframe-login
 rocketchat:importer
 rocketchat:importer-csv
-rocketchat:importer-hipchat
-rocketchat:importer-hipchat-enterprise
-rocketchat:importer-slack
 rocketchat:integrations
 rocketchat:internal-hubot
 rocketchat:irc
 rocketchat:katex
 rocketchat:ldap
 rocketchat:lib
-rocketchat:livechat
 rocketchat:logger
 rocketchat:mailer
 rocketchat:mapview
@@ -89,11 +79,9 @@ rocketchat:migrations
 rocketchat:oauth2-server-config
 rocketchat:oembed
 rocketchat:otr
-rocketchat:piwik
 rocketchat:push-notifications
 rocketchat:reactions
 rocketchat:sandstorm
-rocketchat:slackbridge
 rocketchat:slashcommands-archive
 rocketchat:slashcommands-asciiarts
 rocketchat:slashcommands-create
@@ -127,7 +115,6 @@ rocketchat:ui-vrecord
 rocketchat:version
 rocketchat:videobridge
 rocketchat:webrtc
-rocketchat:wordpress
 rocketchat:message-snippet
 #rocketchat:chatops
 
